@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome_crasher",
+    "description": "always display an 404 error",
+    "version": "1.0.0",
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["Content.js"]
+    }],
+    "icons": {
+        "16": "issue.png",
+        "48": "issue.png",
+        "128": "issue.png"
+    }
+}
