@@ -10,3 +10,6 @@ i personaly recomend to install chrome_crasher on your friends computer and have
 you can always add new photo links in js file
 
  - procrastinatiion_bloker was made to direct your attension on work you have to do
+
+If you want to run this code :
+ - follow this instructions => https://www.youtube.com/embed/sZeUZjhOfgM 
